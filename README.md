@@ -38,6 +38,14 @@ ImageNet-100 기반 Synthetic 데이터셋 적용 결과
 | Poor class 식별 | 17개 |
 | 재생성 후 Poor class | 12개 |
 
+<img width="1724" height="846" alt="image" src="https://github.com/user-attachments/assets/3d29fc7d-bce2-4e5c-9da1-2fdf289f6363" />
+
+<img width="1731" height="849" alt="image" src="https://github.com/user-attachments/assets/7ca8bbc5-91c8-48d3-8f9e-280fc7504fc6" />
+<img width="1726" height="775" alt="image" src="https://github.com/user-attachments/assets/3738011e-3a75-42c0-b079-89e04d37c03b" />
+<img width="1731" height="777" alt="image" src="https://github.com/user-attachments/assets/8a91823a-0a9d-4d5c-8af8-9b0dc4d822ff" />
+
+
+
 ---
 
 ## File Structure
