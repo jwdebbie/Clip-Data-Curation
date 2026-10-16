@@ -1,4 +1,4 @@
-# clip-data-curation
+# Clip Data Curation
 
 > **CLIP Score-based Automatic Quality Filtering and Regeneration for Synthetic Image Datasets**
 
